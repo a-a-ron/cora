@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+
+.poop {
+	heigh: 45px;
+	width: 100px;
+	background-color: red;
+	color: yellow;
+}
